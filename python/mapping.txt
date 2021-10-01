@@ -1,0 +1,27 @@
+Ostbahnhof			Friedrichshain
+Görli				Kreuzberg
+Monbijoupark		Mitte
+Saatwinklerdamm		Charlottenburg Nord
+Olympiastadion		Westend
+Kudamm				Charlottenburg
+FHain				Friedrichshain
+FehrbellinerPatz	Wilmersdorf
+UBhfKleistpark		Schöneberg
+Savignyplatz		Charlottenburg
+Hermannplatz		Neukölln
+Schlachtensee		Zehlendorf
+Sachsendamm			Schöneberg
+Oberbaumbruecke		Kreuzberg
+Oberbaumbrücke		Kreuzberg
+Ostkreuz			Friedrichshain
+Alex				Mitte
+Kulturbrauerei		Prenzlauer Berg
+xberg				Kreuzberg
+Alexanderplatz		Mitte
+Messedamm			Westend
+Humboldthain		Gesundbrunnen
+
+
+
+1002926163218530304 Neukoelln
+1002946743607218178 Adlershof
